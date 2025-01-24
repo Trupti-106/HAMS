@@ -1,1 +1,1 @@
-# HAMS
+#Hospital Appointment Management System
